@@ -1,5 +1,5 @@
 # 5657_clase3
-<img src="https://es.wikipedia.org/wiki/Archivo:Atlas-Copco-Logo.svg">
+<img width="200" src="https://es.wikipedia.org/wiki/Archivo:Atlas-Copco-Logo.svg" />
 <h2>tercera clase</h2>
 
 <ol>
